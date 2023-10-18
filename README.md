@@ -15,3 +15,10 @@
 
 - X-Ray:
     - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+
+- Sentiment Analysis:
+    - https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/notebook
+    - https://www.kaggle.com/code/paoloripamonti/twitter-sentiment-analysis/notebook
+    - https://www.kaggle.com/code/kevinmorgado/twitter-sentiment-analysis-logistic-regression/notebook
+    - https://www.kaggle.com/code/maroberti/fastai-with-transformers-bert-roberta/comments
